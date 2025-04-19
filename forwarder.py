@@ -16,3 +16,9 @@ async def encaminhar_mensagem(event):
 print("Bot rodando...")
 client.start()
 client.run_until_disconnected()
+
+
+
+
+
+add forwarder script
